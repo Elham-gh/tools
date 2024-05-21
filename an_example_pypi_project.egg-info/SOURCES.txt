@@ -1,0 +1,6 @@
+README.txt
+setup.py
+an_example_pypi_project.egg-info/PKG-INFO
+an_example_pypi_project.egg-info/SOURCES.txt
+an_example_pypi_project.egg-info/dependency_links.txt
+an_example_pypi_project.egg-info/top_level.txt
